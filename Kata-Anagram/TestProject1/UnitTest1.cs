@@ -1,18 +1,20 @@
+using Kata_Anagram;
 using NUnit.Framework;
+using System.Collections.Generic;
 
 namespace TestProject1
 {
-    public class Tests
+    public class AnagramTest
     {
-        [SetUp]
-        public void Setup()
-        {
-        }
+       
 
         [Test]
-        public void Test1()
+        public void AnagramTest_Anagrams_isEmpty()
         {
-            Assert.Pass();
+            Anagrams anagrams = new Anagrams();
+            Dictionary<string, List<string>> expected = new Dictionary<string, List<string>>();
+            Assert.AreEqual(expected, anagrams);
+
         }
     }
 }

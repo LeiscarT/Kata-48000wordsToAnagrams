@@ -1,0 +1,16 @@
+C:\Users\Leiscar Trinidad\Documents\Anagramas\KataAnagrama\Kata-Anagram\Kata-Anagram\bin\Debug\net5.0\Kata-Anagram.exe
+C:\Users\Leiscar Trinidad\Documents\Anagramas\KataAnagrama\Kata-Anagram\Kata-Anagram\bin\Debug\net5.0\Kata-Anagram.deps.json
+C:\Users\Leiscar Trinidad\Documents\Anagramas\KataAnagrama\Kata-Anagram\Kata-Anagram\bin\Debug\net5.0\Kata-Anagram.runtimeconfig.json
+C:\Users\Leiscar Trinidad\Documents\Anagramas\KataAnagrama\Kata-Anagram\Kata-Anagram\bin\Debug\net5.0\Kata-Anagram.runtimeconfig.dev.json
+C:\Users\Leiscar Trinidad\Documents\Anagramas\KataAnagrama\Kata-Anagram\Kata-Anagram\bin\Debug\net5.0\Kata-Anagram.dll
+C:\Users\Leiscar Trinidad\Documents\Anagramas\KataAnagrama\Kata-Anagram\Kata-Anagram\bin\Debug\net5.0\ref\Kata-Anagram.dll
+C:\Users\Leiscar Trinidad\Documents\Anagramas\KataAnagrama\Kata-Anagram\Kata-Anagram\bin\Debug\net5.0\Kata-Anagram.pdb
+C:\Users\Leiscar Trinidad\Documents\Anagramas\KataAnagrama\Kata-Anagram\Kata-Anagram\obj\Debug\net5.0\Kata-Anagram.csprojAssemblyReference.cache
+C:\Users\Leiscar Trinidad\Documents\Anagramas\KataAnagrama\Kata-Anagram\Kata-Anagram\obj\Debug\net5.0\Kata-Anagram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leiscar Trinidad\Documents\Anagramas\KataAnagrama\Kata-Anagram\Kata-Anagram\obj\Debug\net5.0\Kata-Anagram.AssemblyInfoInputs.cache
+C:\Users\Leiscar Trinidad\Documents\Anagramas\KataAnagrama\Kata-Anagram\Kata-Anagram\obj\Debug\net5.0\Kata-Anagram.AssemblyInfo.cs
+C:\Users\Leiscar Trinidad\Documents\Anagramas\KataAnagrama\Kata-Anagram\Kata-Anagram\obj\Debug\net5.0\Kata-Anagram.csproj.CoreCompileInputs.cache
+C:\Users\Leiscar Trinidad\Documents\Anagramas\KataAnagrama\Kata-Anagram\Kata-Anagram\obj\Debug\net5.0\Kata-Anagram.dll
+C:\Users\Leiscar Trinidad\Documents\Anagramas\KataAnagrama\Kata-Anagram\Kata-Anagram\obj\Debug\net5.0\ref\Kata-Anagram.dll
+C:\Users\Leiscar Trinidad\Documents\Anagramas\KataAnagrama\Kata-Anagram\Kata-Anagram\obj\Debug\net5.0\Kata-Anagram.pdb
+C:\Users\Leiscar Trinidad\Documents\Anagramas\KataAnagrama\Kata-Anagram\Kata-Anagram\obj\Debug\net5.0\Kata-Anagram.genruntimeconfig.cache

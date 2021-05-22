@@ -1225,6 +1225,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
+      },
+      "Kata-Anagram/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Kata-Anagram.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Kata-Anagram.dll": {}
+        }
       }
     }
   },
@@ -4605,10 +4615,16 @@
         "system.xml.xpath.xmldocument.4.3.0.nupkg.sha512",
         "system.xml.xpath.xmldocument.nuspec"
       ]
+    },
+    "Kata-Anagram/1.0.0": {
+      "type": "project",
+      "path": "../Kata-Anagram/Kata-Anagram.csproj",
+      "msbuildProject": "../Kata-Anagram/Kata-Anagram.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
+      "Kata-Anagram >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 16.5.0",
       "NUnit >= 3.12.0",
       "NUnit3TestAdapter >= 3.16.1"
@@ -4640,7 +4656,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Leiscar Trinidad\\Documents\\Anagramas\\KataAnagrama\\Kata-Anagram\\Kata-Anagram\\Kata-Anagram.csproj": {
+              "projectPath": "C:\\Users\\Leiscar Trinidad\\Documents\\Anagramas\\KataAnagrama\\Kata-Anagram\\Kata-Anagram\\Kata-Anagram.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
