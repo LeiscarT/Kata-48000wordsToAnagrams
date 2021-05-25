@@ -9,7 +9,11 @@ namespace Kata_Anagram
 {
     public class FileManager
     {
+
         private string[] privatearray = null;
+        public int anagram_quantity_set = 0;
+        public int words_quantity = 0;
+        public Dictionary<string, List<string>> anagrams;
 
         public FileManager() 
         {
@@ -39,10 +43,22 @@ namespace Kata_Anagram
 
 
 
-       public string [] getArray()
+       public string[] getArray()
         {
             return this.privatearray;
 
+        }
+
+
+        public void print(TextWriter tw)
+        {
+            foreach(var anag in anagrams)
+            {
+                words_quantity += anag.Value.Count;
+                anagram_quantity_set++;
+                tw.WriteLine(string.Join(", ", anag.Value));
+
+            }
         }
     }
 }

@@ -20,6 +20,11 @@ namespace Kata_Anagram
           
         }
 
+        public Anagrams(string[] lines)
+        {
+            sort(lines);
+        }
+
         private void sort(string[] lines)
         {
             for (int i = 0; i < lines.Length; i++)
